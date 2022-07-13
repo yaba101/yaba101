@@ -8,6 +8,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 📚 My Blog posts
-
 <!-- BLOG-POST-LIST:START -->
++ [State Vs Props](https://yeabsiramekuriablog.vercel.app/posts/StateVsProps)
 <!-- BLOG-POST-LIST:END -->
