@@ -9,5 +9,6 @@
 
 # 📚 My Blog posts
 
-+ [State Vs Props](https://yeabsiramekuriablog.vercel.app/posts/StateVsProps)
++ [State Vs Props](https://yeabsiramekuriablog.vercel.app/blog/statevsprops)
++ [Closure in React](https://yeabsiramekuriablog.vercel.app/blog/Closure%20in%20React)
 
