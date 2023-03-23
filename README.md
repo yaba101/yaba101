@@ -9,4 +9,5 @@
 
 + [State Vs Props](https://yeabsiramekuriablog.vercel.app/blog/statevsprops)
 + [Closure in React](https://yeabsiramekuriablog.vercel.app/blog/Closure%20in%20React)
++ [How to avoid null or undefined in TypeScript](https://yeabsiramekuriablog.vercel.app/blog/how-to-avoid-null-or-undefined-in-typescript-)
 
