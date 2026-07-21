@@ -15,9 +15,12 @@
 
 ### What I do
 
-- Build polished product interfaces connected to real APIs and data.
-- Simplify onboarding, eligibility, dashboards, and complex user journeys.
-- Improve accessibility, responsive behavior, testing, and production quality.
+- Build data-intensive platforms with reliable API integrations, then profile and optimize those boundaries for performance and resilience.
+- Shape and improve UI/UX from the product persona, domain context, and real user workflows—not only implementation-ready designs.
+- Instrument products with PostHog, Sentry, and related observability tools to understand behavior, detect regressions, and improve production confidence.
+- Use AI-driven development workflows to accelerate discovery, implementation, and testing while maintaining deliberate engineering review.
+- Design Playwright workflows that protect critical journeys, responsive behavior, and cross-browser quality.
+- Build interactive node-based and diagramming experiences with [React Flow](https://reactflow.dev/) and [XYFlow](https://xyflow.com/).
 
 ### Selected work
 
