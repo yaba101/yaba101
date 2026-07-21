@@ -10,7 +10,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yeabsira-mekuria">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/yaba101/yeabsira-portfolio">Portfolio</a>
+  <a href="https://yeabsiramekuria.vercel.app">Portfolio</a>
 </p>
 
 ### What I do
@@ -26,7 +26,7 @@
 
 - **[Adavia](https://adavia.com)** — was Lead Frontend Engineer, leading frontend and UI/UX delivery across an AI-assisted citizenship platform, customer portals, onboarding, and analytics.
 - **[Breakscope](https://github.com/yaba101/breakscope)** — local-first responsive testing workbench built with Next.js and Playwright.
-- **[Portfolio](https://github.com/yaba101/yeabsira-portfolio)** — an accessible, motion-aware Next.js product experience.
+- **[Portfolio](https://yeabsiramekuria.vercel.app)** — an accessible, motion-aware Next.js product experience.
 
 ### Toolkit
 
