@@ -31,7 +31,10 @@
 ### Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,d3,prisma,postgres,sentry,git,github&theme=dark&perline=11" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, D3, Prisma, PostgreSQL, Sentry, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,d3,prisma,postgres,sentry,git&theme=dark&perline=10" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, D3, Prisma, PostgreSQL, Sentry, and Git" />
+  <img src="https://cdn.simpleicons.org/posthog/F54E00" alt="PostHog" title="PostHog" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack Query" title="TanStack Query" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="48" height="48" />
 </p>
 
 ---
