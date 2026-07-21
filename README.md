@@ -21,17 +21,15 @@
 
 ### Selected work
 
+- **[Adavia](https://adavia.com)** — was Lead Frontend Engineer, leading frontend and UI/UX delivery across an AI-assisted citizenship platform, customer portals, onboarding, and analytics.
 - **[Breakscope](https://github.com/yaba101/breakscope)** — local-first responsive testing workbench built with Next.js and Playwright.
-- **AI-assisted citizenship platform** — led frontend and UI/UX delivery across customer journeys, portals, onboarding, and analytics.
 - **[Portfolio](https://github.com/yaba101/yeabsira-portfolio)** — an accessible, motion-aware Next.js product experience.
 
 ### Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,figma,prisma,postgres,git,github&theme=dark&perline=10" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Figma, Prisma, PostgreSQL, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,d3,prisma,postgres,sentry,git,github&theme=dark&perline=11" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, D3, Prisma, PostgreSQL, Sentry, Git, and GitHub" />
 </p>
-
-<sub>Also working with Playwright, TanStack Query, Zustand, nuqs, D3, PostHog, Sentry, Drizzle ORM, and Resend.</sub>
 
 ---
 
